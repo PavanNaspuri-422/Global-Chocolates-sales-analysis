@@ -1,6 +1,5 @@
 # Chocolates Global Sales Dashboard
-##Project Overview
-
+#Project Overview
 
 This project involved developing a comprehensive Sales Analytics Dashboard for Marvel Chocolates, a global confectionery distributor. The goal was to transform raw shipment data from 2023–2024 into actionable business insights regarding regional sales, product performance, and sales agent efficiency.
 
